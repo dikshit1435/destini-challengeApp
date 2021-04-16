@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d48fb8c8-ed5f-4841-a36d-4aa3ec77855a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1rDZBHESV7S51d3TM4ocDKF6WaO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Flutter.Destijni">
+    <list>
+      <item itemvalue="Flutter.Destijni" />
+      <item itemvalue="Flutter (Bazel).destini" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d48fb8c8-ed5f-4841-a36d-4aa3ec77855a" name="Default Changelist" comment="" />
+      <created>1618512484102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618512484102</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="129" key="#Destijni" timestamp="1618580817431">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="460" y="129" key="#Destijni/0.0.1536.824@0.0.1536.824" timestamp="1618580817431" />
+    <state x="438" y="134" key="#Unnamed" timestamp="1618580675076">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="438" y="134" key="#Unnamed/0.0.1536.824@0.0.1536.824" timestamp="1618580675076" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618581006168">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1618581006168" />
+    <state x="498" y="201" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1618580815339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="201" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1618580815339" />
+    <state x="438" y="134" key="#destini" timestamp="1618580697040">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="438" y="134" key="#destini/0.0.1536.824@0.0.1536.824" timestamp="1618580697040" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1618513100331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1618513100331" />
+    <state width="1476" height="207" key="GridCell.Tab.0.bottom" timestamp="1618591618102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618591618102" />
+    <state width="1476" height="207" key="GridCell.Tab.0.center" timestamp="1618591618102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618591618102" />
+    <state width="1476" height="207" key="GridCell.Tab.0.left" timestamp="1618591618102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618591618102" />
+    <state width="1476" height="207" key="GridCell.Tab.0.right" timestamp="1618591618102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618591618102" />
+    <state x="349" y="155" key="IDE.errors.dialog" timestamp="1618584007097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="155" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1618584007097" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1618513103179">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1618513103179" />
+    <state x="100" y="100" width="1336" height="624" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1618585745968">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="100" y="100" width="1336" height="624" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1618585745968" />
+    <state x="100" y="100" width="1336" height="624" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1618586841780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="100" y="100" width="1336" height="624" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1618586841780" />
+  </component>
+</project>
